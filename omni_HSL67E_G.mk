@@ -17,7 +17,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 PRODUCT_DEVICE := HSL67E_G
 PRODUCT_NAME := omni_HSL67E_G
-PRODUCT_BRAND := 凌度
+PRODUCT_BRAND := Vados
 PRODUCT_MODEL := HSL67E-G
 PRODUCT_MANUFACTURER := sprd
 
