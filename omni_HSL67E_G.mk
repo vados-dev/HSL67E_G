@@ -10,7 +10,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 #$(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit from D41 device
-$(call inherit-product, device/sprd/omni_HSL67E_G/device.mk)
+$(call inherit-product, device/sprd/HSL67E_G/device.mk)
 
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
